@@ -37,4 +37,5 @@
   </languages>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.Продажи</documents>
+  <enums>Enum.ТипТовара</enums>
 </mdclass:Configuration>

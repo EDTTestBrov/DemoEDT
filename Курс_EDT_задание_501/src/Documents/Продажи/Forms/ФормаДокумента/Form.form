@@ -219,6 +219,10 @@
       <dataPath xsi:type="form:DataPath">
         <segments>Объект.Состав.Цена</segments>
       </dataPath>
+      <handlers>
+        <event>OnChange</event>
+        <name>СоставЦенаПриИзменении</name>
+      </handlers>
       <extendedTooltip>
         <name>СоставЦенаРасширеннаяПодсказка</name>
         <id>28</id>
@@ -269,6 +273,10 @@
       <dataPath xsi:type="form:DataPath">
         <segments>Объект.Состав.Количество</segments>
       </dataPath>
+      <handlers>
+        <event>OnChange</event>
+        <name>СоставКоличествоПриИзменении</name>
+      </handlers>
       <extendedTooltip>
         <name>СоставКоличествоРасширеннаяПодсказка</name>
         <id>31</id>
